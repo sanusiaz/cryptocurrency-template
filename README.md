@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sanusiaz/sanusiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +9,3 @@ Here are some ideas to get you started:
  📫 How to reach me: whatsapp me on +2347016738135 ...
  
   This is a template i created
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
